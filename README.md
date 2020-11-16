@@ -1,5 +1,11 @@
 ### Hi there 👋
+I'm Cristian Di Grazia, a full stack developer living in Canary Islands.
 
+### Likes
+* Typescript.
+* React.
+* Sass.
+* Python.
 <!--
 **cristiandgra/cristiandgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
