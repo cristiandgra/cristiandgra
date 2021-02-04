@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Cristian Di Grazia, a full stack developer living in Canary Islands.
+I'm Cristian Di Grazia, a Junior Frontend Developer.
 
 ### Likes
 * Typescript.
