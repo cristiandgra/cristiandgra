@@ -6,6 +6,8 @@ I'm Cristian Di Grazia, a Junior Frontend Developer.
 * React.
 * HTML.
 * CSS.
+
+🔭 I’m currently working on Kpibar as a Frontend Developer.
 <!--
 **cristiandgra/cristiandgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
