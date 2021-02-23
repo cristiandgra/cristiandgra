@@ -2,10 +2,10 @@
 I'm Cristian Di Grazia, a Junior Frontend Developer.
 
 ### Likes
-* Typescript.
+* Javascript.
 * React.
-* Sass.
-* Python.
+* HTML.
+* CSS.
 <!--
 **cristiandgra/cristiandgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
