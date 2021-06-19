@@ -2,6 +2,7 @@
 I'm Cristian Di Grazia, a Junior Frontend Developer.
 
 ### Likes
+* Java
 * Javascript.
 * React.
 * HTML.
