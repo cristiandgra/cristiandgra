@@ -7,6 +7,8 @@ I'm Cristian Di Grazia, a Junior Frontend Developer.
 * React.
 * HTML.
 * CSS.
+* Bootstrap.
+* SASS.
 
 <!--
 **cristiandgra/cristiandgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
