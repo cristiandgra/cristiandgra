@@ -2,8 +2,8 @@
 I'm Cristian Di Grazia, a Junior Frontend Developer.
 
 ### Likes
-* Java
-* Javascript.
+* Java.
+* Javascript/Typescript.
 * React.
 * HTML.
 * CSS.
