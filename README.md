@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Cristian Di Grazia, a Junior Frontend Developer.
+I'm Cristian Di Grazia, a Frontend Developer.
 
 ### Likes
 * Java.
