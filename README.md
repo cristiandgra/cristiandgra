@@ -3,12 +3,12 @@ I'm Cristian Di Grazia, a Frontend Developer.
 
 ### Likes
 * Java.
-* Javascript/Typescript.
+* Typescript.
 * React.
+* Redux.
 * HTML.
 * CSS.
-* Bootstrap.
-* SASS.
+* Tailwind CSS.
 
 <!--
 **cristiandgra/cristiandgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
